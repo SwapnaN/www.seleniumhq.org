@@ -68,6 +68,10 @@
             Selenium consulting, training and coaching.
         </li>
         <li>
+            <a rel="nofollow" href="http://www.itelearn.com/course/selenium-training-video-tutorials/">ITeLearn</a> -
+            ITeLearn is a software testing training center and advanced courses for Selenium.
+        </li>
+        <li>
             <a rel="nofollow" href="http://www.infostretch.com/QA/selenium-testing.php">InfoStretch</a> -
             QA & automation services company with an expertise in Selenium.
         </li>
